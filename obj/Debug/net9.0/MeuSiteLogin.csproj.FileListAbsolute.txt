@@ -190,3 +190,5 @@ C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Mic
 C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.sourcelink.json
+C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\fjjq0hoq1y-nqvr9g2g4q.gz

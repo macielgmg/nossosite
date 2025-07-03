@@ -22,5 +22,11 @@ namespace MeuSiteLogin.Models
 
         [Column("email")]
         public string? Email { get; set; }
+
+        [Column("foto")]
+        public byte[]? Foto { get; set; }
+
+        [Column("plano")]
+        public string? Plano { get; set; }
     }
 }

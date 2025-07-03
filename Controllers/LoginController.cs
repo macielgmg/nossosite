@@ -1,9 +1,8 @@
-// Controllers/LoginController.cs
 using Microsoft.AspNetCore.Mvc;
-using MeuSiteLogin.Models;
 using MeuSiteLogin.Data;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
+using System.Threading.Tasks;
 
 public class LoginController : Controller
 {
@@ -14,7 +13,16 @@ public class LoginController : Controller
         _context = context;
     }
 
-    public IActionResult Index() => View();
+    [HttpGet]
+    public IActionResult Index()
+    {
+        if (HttpContext.Session.GetInt32("UsuarioId") != null)
+        {
+            return RedirectToAction("Index", "Dashboard");
+        }
+
+        return View();
+    }
 
     [HttpPost]
     public async Task<IActionResult> Index(string usuario, string senha)
@@ -24,7 +32,6 @@ public class LoginController : Controller
 
         if (user != null)
         {
-            // Aqui você pode usar sessões ou cookies
             HttpContext.Session.SetInt32("UsuarioId", user.Id);
             return RedirectToAction("Index", "Dashboard");
         }
@@ -32,4 +39,14 @@ public class LoginController : Controller
         ViewBag.Erro = "Usuário ou senha inválidos.";
         return View();
     }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Logout()
+    {
+        HttpContext.Session.Clear();
+        return RedirectToAction("Index");
+    }
+
+
 }

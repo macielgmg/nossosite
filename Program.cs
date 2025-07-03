@@ -1,20 +1,18 @@
-using MeuSiteLogin.Data; // Certifique-se de importar seu namespace
+using MeuSiteLogin.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Adiciona suporte a controllers e views (MVC)
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
+builder.Services.AddDistributedMemoryCache();
 
-// Conexão com PostgreSQL
 var connectionString = builder.Configuration.GetConnectionString("PostgresConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 
 var app = builder.Build();
 
-// Middleware padrão
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -26,12 +24,13 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseSession();
-
 app.UseAuthorization();
+
+app.UseStatusCodePagesWithReExecute("/Error/{0}");
+
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
 
 app.Run();

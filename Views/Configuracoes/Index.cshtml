@@ -1,0 +1,103 @@
+@using MeuSiteLogin.Data
+@inject AppDbContext _context
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var usuarioId = Context.Session.GetInt32("UsuarioId");
+    var usuario = usuarioId != null ? _context.Usuarios.FirstOrDefault(u => u.Id == usuarioId) : null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Configurações - Meu Site</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gradient-to-br from-purple-600 via-purple-500 to-purple-700 text-white">
+    
+
+    <main class="pt-28 px-6 min-h-screen flex justify-center items-start">
+        <div
+            class="bg-white text-gray-800 w-full max-w-4xl rounded-lg shadow-lg overflow-hidden flex flex-col md:flex-row">
+            <aside class="bg-purple-800 text-white w-full md:w-1/3 p-6">
+                <h2 class="text-2xl font-bold mb-6">Configurações</h2>
+                <nav class="space-y-4">
+                    <a href="#" class="block font-medium text-white bg-purple-700 rounded px-4 py-2">Conta</a>
+                    <a href="#" class="block hover:bg-purple-700 px-4 py-2 rounded transition">Customização da AI</a>
+                    <a href="#" class="block hover:bg-purple-700 px-4 py-2 rounded transition">Configurações do App</a>
+                </nav>
+            </aside>
+
+            <section class="w-full md:w-2/3 p-8 space-y-10">
+                <h1 class="text-3xl font-bold mb-6">Configurações de Conta</h1>
+
+                <form asp-action="AlterarNome" method="post" class="space-y-4">
+                    <h2 class="text-lg font-semibold">Alterar Nome</h2>
+                    <input type="text" name="novoNome" placeholder="Novo nome" value="@usuario?.Nome"
+                        class="w-full p-3 border border-gray-300 rounded" required />
+                    <button type="submit"
+                        class="w-full bg-purple-600 text-white py-2 rounded hover:bg-purple-700 transition">Salvar</button>
+                </form>
+
+                <div>
+                    <h2 class="text-lg font-semibold mb-1">Email atual</h2>
+                    <p class="text-gray-700">@usuario?.Email</p>
+                </div>
+
+                <form asp-action="AlterarSenha" method="post" class="space-y-4">
+                    <h2 class="text-lg font-semibold">Alterar Senha</h2>
+                    <input type="password" name="novaSenha" placeholder="Nova senha"
+                        class="w-full p-3 border border-gray-300 rounded" required />
+                    <button type="submit"
+                        class="w-full bg-purple-600 text-white py-2 rounded hover:bg-purple-700 transition">Salvar</button>
+                </form>
+
+                <div class="space-y-4">
+                    <h2 class="text-lg font-semibold">Foto de Perfil</h2>
+                    <div class="flex items-center gap-6">
+                        <img src="@(usuario.Foto != null ? $"data:image/png;base64,{Convert.ToBase64String(usuario.Foto)}" : "/images/default-profile.png")"
+                            alt="Foto atual" class="w-20 h-20 rounded-full shadow border" />
+                        <form asp-action="AlterarFoto" method="post" enctype="multipart/form-data"
+                            class="flex flex-col md:flex-row items-center gap-4">
+                            <label for="fotoUpload"
+                                class="cursor-pointer flex items-center px-4 py-2 bg-gray-200 text-gray-800 rounded hover:bg-gray-300 transition">
+                                📎 <span class="ml-2 text-sm">Selecionar</span>
+                            </label>
+                            <input id="fotoUpload" name="foto" type="file" accept="image/*" class="hidden" required />
+
+                            <button type="submit"
+                                class="bg-purple-600 text-white px-6 py-2 rounded hover:bg-purple-700 transition">
+                                Trocar Foto
+                            </button>
+                        </form>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script>
+        function toggleDropdown() {
+            const dropdown = document.getElementById('dropdownMenu');
+            dropdown.classList.toggle('hidden');
+        }
+
+        document.addEventListener('click', function (event) {
+            const dropdown = document.getElementById('dropdownMenu');
+            const button = event.target.closest('button');
+
+            if (!dropdown.contains(event.target) && !button) {
+                dropdown.classList.add('hidden');
+            }
+        });
+    </script>
+
+    <script src="~/js/loader.js"></script>
+
+</body>
+
+</html>

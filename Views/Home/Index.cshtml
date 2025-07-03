@@ -1,5 +1,6 @@
 ﻿@{
-    Layout = null; // Remove o layout padrão (_Layout.cshtml)
+    Layout = null;
+    var usuarioLogado = Context.Session.GetInt32("UsuarioId");
 }
 
 <!DOCTYPE html>
@@ -19,7 +20,14 @@
                 <a href="#demo" class="text-white hover:text-gray-200 transition">Demonstração</a>
             </nav>
             <div class="space-x-4">
-                <a href="/Login" class="text-white font-medium hover:text-gray-300 transition">Login</a>
+                @if (usuarioLogado != null)
+                {
+                    <a href="/Dashboard" class="text-white font-medium hover:text-gray-300 transition">Abrir aplicação</a>
+                }
+                else
+                {
+                    <a href="/Login" class="text-white font-medium hover:text-gray-300 transition">Login</a>
+                }
                 <a href="#" class="px-4 py-2 bg-black text-white rounded-full font-medium hover:bg-gray-800 transition">
                     Começar grátis
                 </a>
@@ -41,6 +49,7 @@
         </div>
     </main>
 
-    <script src="js/loader.js"></script>
+    <script src="~/js/loader.js"></script>
+
 </body>
 </html>

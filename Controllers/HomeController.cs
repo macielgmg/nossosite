@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MeuSiteLogin.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace MeuSiteLogin.Controllers;
 
@@ -28,4 +29,8 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    
+
+    
 }
