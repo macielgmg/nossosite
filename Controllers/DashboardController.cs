@@ -24,6 +24,6 @@ public class DashboardController : Controller
         if (usuario == null)
             return RedirectToAction("Index", "Login");
 
-        return View(usuario); // passa o objeto completo para a view
+        return View(usuario);
     }
 }
