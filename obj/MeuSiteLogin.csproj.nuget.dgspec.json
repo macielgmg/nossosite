@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\MeuSiteLogin.csproj": {}
+    "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\MeuSiteLogin.csproj": {
+    "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\MeuSiteLogin.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj",
         "projectName": "MeuSiteLogin",
-        "projectPath": "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\MeuSiteLogin.csproj",
+        "projectPath": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj",
         "packagesPath": "C:\\Users\\gabriel.gonzaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\obj\\",
+        "outputPath": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel.gonzaga\\AppData\\Roaming\\NuGet\\NuGet.Config"

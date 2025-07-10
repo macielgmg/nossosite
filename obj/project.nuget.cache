@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ll6d4X8sn8A=",
+  "dgSpecHash": "w2dV6BhVgrg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.gonzaga\\Downloads\\meusite2\\MeuSiteLogin\\MeuSiteLogin.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel.gonzaga\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gabriel.gonzaga\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
