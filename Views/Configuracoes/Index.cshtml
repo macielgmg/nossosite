@@ -4,6 +4,11 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
     var usuarioId = Context.Session.GetInt32("UsuarioId");
     var usuario = usuarioId != null ? _context.Usuarios.FirstOrDefault(u => u.Id == usuarioId) : null;
+    // Mock de usuário para visualização, caso o usuário seja nulo.
+    if (usuario == null)
+    {
+        usuario = new MeuSiteLogin.Models.Usuario { Nome = "Usuário de Exemplo", Email = "exemplo@email.com", Foto = null };
+    }
 }
 
 <!DOCTYPE html>
@@ -14,89 +19,156 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Configurações - Meu Site</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Estilo para o scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #6366f1;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #4f46e5;
+        }
+    </style>
 </head>
 
-<body class="bg-gradient-to-br from-purple-600 via-purple-500 to-purple-700 text-white">
-    
+<body class="bg-slate-50 text-slate-800">
 
-    <main class="pt-28 px-6 min-h-screen flex justify-center items-start">
-        <div
-            class="bg-white text-gray-800 w-full max-w-4xl rounded-lg shadow-lg overflow-hidden flex flex-col md:flex-row">
-            <aside class="bg-purple-800 text-white w-full md:w-1/3 p-6">
-                <h2 class="text-2xl font-bold mb-6">Configurações</h2>
-                <nav class="space-y-4">
-                    <a href="#" class="block font-medium text-white bg-purple-700 rounded px-4 py-2">Conta</a>
-                    <a href="#" class="block hover:bg-purple-700 px-4 py-2 rounded transition">Customização da AI</a>
-                    <a href="#" class="block hover:bg-purple-700 px-4 py-2 rounded transition">Configurações do App</a>
-                </nav>
-            </aside>
+    <main class="min-h-screen p-4 sm:p-6 lg:p-8">
+        <div class="max-w-7xl mx-auto">
+            <header class="mb-8">
+                <h1 class="text-3xl font-bold text-slate-900">Configurações</h1>
+                <p class="text-slate-500 mt-1">Gerencie suas informações de conta, preferências e mais.</p>
+            </header>
 
-            <section class="w-full md:w-2/3 p-8 space-y-10">
-                <h1 class="text-3xl font-bold mb-6">Configurações de Conta</h1>
+            <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+                <!-- Menu Lateral -->
+                <aside class="lg:col-span-1">
+                    <nav class="space-y-2">
+                        <a href="#conta" class="flex items-center gap-3 px-4 py-2 text-white bg-indigo-600 rounded-lg font-semibold shadow">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                            <span>Conta</span>
+                        </a>
+                        <a href="#customizacao" class="flex items-center gap-3 px-4 py-2 text-slate-600 hover:bg-indigo-100 hover:text-indigo-700 rounded-lg font-medium transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/><path d="M5 3v4"/><path d="M19 17v4"/><path d="M3 5h4"/><path d="M17 19h4"/></svg>
+                            <span>Customização da AI</span>
+                        </a>
+                        <a href="#app" class="flex items-center gap-3 px-4 py-2 text-slate-600 hover:bg-indigo-100 hover:text-indigo-700 rounded-lg font-medium transition-colors">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 0 2l-.15.08a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.38a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1 0-2l.15-.08a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
+                            <span>Configurações do App</span>
+                        </a>
+                    </nav>
+                </aside>
 
-                <form asp-action="AlterarNome" method="post" class="space-y-4">
-                    <h2 class="text-lg font-semibold">Alterar Nome</h2>
-                    <input type="text" name="novoNome" placeholder="Novo nome" value="@usuario?.Nome"
-                        class="w-full p-3 border border-gray-300 rounded" required />
-                    <button type="submit"
-                        class="w-full bg-purple-600 text-white py-2 rounded hover:bg-purple-700 transition">Salvar</button>
-                </form>
+                <!-- Conteúdo Principal -->
+                <div class="lg:col-span-3 space-y-8">
+                    
+                    <!-- Card de Informações do Perfil -->
+                    <section id="conta" class="bg-white p-6 sm:p-8 rounded-2xl shadow-lg transition-shadow hover:shadow-xl">
+                        <h2 class="text-xl font-bold text-slate-800 mb-1">Informações do Perfil</h2>
+                        <p class="text-slate-500 mb-6">Atualize os dados da sua conta.</p>
+                        
+                        <form asp-action="AlterarNome" method="post" class="space-y-4">
+                            <div>
+                                <label for="novoNome" class="block text-sm font-medium text-slate-700 mb-1">Nome</label>
+                                <input type="text" id="novoNome" name="novoNome" placeholder="Seu nome completo" value="@usuario.Nome" class="w-full p-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition" required />
+                            </div>
+                             <div>
+                                <label class="block text-sm font-medium text-slate-700 mb-1">Email</label>
+                                <p class="text-slate-900 p-3 bg-slate-100 rounded-lg">@usuario.Email</p>
+                            </div>
+                            <div class="flex justify-end">
+                                <button type="submit" class="bg-indigo-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-indigo-700 transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                    Salvar Alterações
+                                </button>
+                            </div>
+                        </form>
+                    </section>
 
-                <div>
-                    <h2 class="text-lg font-semibold mb-1">Email atual</h2>
-                    <p class="text-gray-700">@usuario?.Email</p>
-                </div>
+                    <!-- Card de Alterar Senha -->
+                    <section class="bg-white p-6 sm:p-8 rounded-2xl shadow-lg transition-shadow hover:shadow-xl">
+                         <h2 class="text-xl font-bold text-slate-800 mb-1">Alterar Senha</h2>
+                         <p class="text-slate-500 mb-6">Para sua segurança, escolha uma senha forte.</p>
+                        <form asp-action="AlterarSenha" method="post" class="space-y-4">
+                            <div>
+                                <label for="novaSenha" class="block text-sm font-medium text-slate-700 mb-1">Nova Senha</label>
+                                <input type="password" id="novaSenha" name="novaSenha" placeholder="••••••••" class="w-full p-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition" required />
+                            </div>
+                            <div class="flex justify-end">
+                                <button type="submit" class="bg-indigo-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-indigo-700 transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                    Alterar Senha
+                                </button>
+                            </div>
+                        </form>
+                    </section>
 
-                <form asp-action="AlterarSenha" method="post" class="space-y-4">
-                    <h2 class="text-lg font-semibold">Alterar Senha</h2>
-                    <input type="password" name="novaSenha" placeholder="Nova senha"
-                        class="w-full p-3 border border-gray-300 rounded" required />
-                    <button type="submit"
-                        class="w-full bg-purple-600 text-white py-2 rounded hover:bg-purple-700 transition">Salvar</button>
-                </form>
+                    <!-- Card de Foto de Perfil -->
+                    <section class="bg-white p-6 sm:p-8 rounded-2xl shadow-lg transition-shadow hover:shadow-xl">
+                        <h2 class="text-xl font-bold text-slate-800 mb-1">Foto de Perfil</h2>
+                        <p class="text-slate-500 mb-6">Uma foto ajuda a personalizar sua conta.</p>
+                        <form asp-action="AlterarFoto" method="post" enctype="multipart/form-data" class="flex flex-col sm:flex-row items-center gap-6">
+                            
+                            @{
+                                var imgSrc = "/images/default-profile.png"; // Fallback
+                                if (usuario.Foto != null && usuario.Foto.Length > 0)
+                                {
+                                    imgSrc = $"data:image/png;base64,{Convert.ToBase64String(usuario.Foto)}";
+                                }
+                            }
+                            <img src="@imgSrc" alt="Foto de perfil atual" class="w-24 h-24 rounded-full shadow-md border-4 border-white object-cover" onerror="this.onerror=null;this.src='https://placehold.co/96x96/E2E8F0/475569?text=Perfil';"/>
 
-                <div class="space-y-4">
-                    <h2 class="text-lg font-semibold">Foto de Perfil</h2>
-                    <div class="flex items-center gap-6">
-                        <img src="@(usuario.Foto != null ? $"data:image/png;base64,{Convert.ToBase64String(usuario.Foto)}" : "/images/default-profile.png")"
-                            alt="Foto atual" class="w-20 h-20 rounded-full shadow border" />
-                        <form asp-action="AlterarFoto" method="post" enctype="multipart/form-data"
-                            class="flex flex-col md:flex-row items-center gap-4">
-                            <label for="fotoUpload"
-                                class="cursor-pointer flex items-center px-4 py-2 bg-gray-200 text-gray-800 rounded hover:bg-gray-300 transition">
-                                📎 <span class="ml-2 text-sm">Selecionar</span>
-                            </label>
-                            <input id="fotoUpload" name="foto" type="file" accept="image/*" class="hidden" required />
+                            <div class="flex-grow">
+                                <label for="fotoUpload" class="w-full sm:w-auto cursor-pointer flex items-center justify-center px-4 py-2 bg-slate-100 text-slate-700 rounded-lg hover:bg-slate-200 transition border border-dashed border-slate-300">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" x2="12" y1="3" y2="15"/></svg>
+                                    <span id="fileName" class="ml-2 text-sm font-medium">Selecionar nova foto</span>
+                                </label>
+                                <input id="fotoUpload" name="foto" type="file" accept="image/*" class="hidden" required onchange="updateFileName(this)"/>
+                                <p class="text-xs text-slate-500 mt-2">PNG, JPG, GIF até 10MB.</p>
+                            </div>
 
-                            <button type="submit"
-                                class="bg-purple-600 text-white px-6 py-2 rounded hover:bg-purple-700 transition">
-                                Trocar Foto
+                            <button type="submit" class="w-full sm:w-auto bg-indigo-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-indigo-700 transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                Salvar Foto
                             </button>
                         </form>
-
-                    </div>
+                    </section>
                 </div>
-            </section>
+            </div>
         </div>
     </main>
 
     <script>
-        function toggleDropdown() {
-            const dropdown = document.getElementById('dropdownMenu');
-            dropdown.classList.toggle('hidden');
+        // Script para atualizar o nome do arquivo no botão de upload
+        function updateFileName(input) {
+            const fileNameSpan = document.getElementById('fileName');
+            if (input.files && input.files.length > 0) {
+                fileNameSpan.textContent = input.files[0].name;
+            } else {
+                fileNameSpan.textContent = 'Selecionar nova foto';
+            }
         }
 
-        document.addEventListener('click', function (event) {
-            const dropdown = document.getElementById('dropdownMenu');
-            const button = event.target.closest('button');
-
-            if (!dropdown.contains(event.target) && !button) {
-                dropdown.classList.add('hidden');
-            }
+        // Script para navegação suave (opcional)
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
         });
     </script>
-
-    <script src="~/js/loader.js"></script>
 
 </body>
 

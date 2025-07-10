@@ -1,0 +1,201 @@
+@{
+    // Este bloco pode ser usado para lógica de servidor em um ambiente .NET.
+    // Por exemplo, para buscar informações do usuário logado.
+    // var userId = Context.Session.GetInt32("UsuarioId");
+}
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Upgrade de Plano - Meu Site</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .plan-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .plan-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+        }
+        /* Esconde o input original e estiliza o label */
+        #billing-toggle:checked + div {
+             background-color: #4f46e5; /* indigo-600 */
+        }
+        #billing-toggle:checked + div:after {
+            transform: translateX(100%);
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 text-slate-800">
+
+    <div class="container mx-auto px-4 py-8 sm:py-12 lg:py-16">
+
+        <!-- Cabeçalho e Navegação do Processo -->
+        <header class="max-w-4xl mx-auto text-center mb-12">
+            <a href="#" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500">
+                &larr; Voltar para o Painel
+            </a>
+            <h1 class="text-4xl sm:text-5xl font-extrabold text-slate-900 mt-4">
+                Escolha o Plano Ideal para Você
+            </h1>
+            <p class="mt-4 text-lg text-slate-600">
+                Desbloqueie recursos avançados e aumente seus limites de transcrição.
+            </p>
+        </header>
+
+        <!-- Seletor de Faturamento (Mensal/Anual) -->
+        <div class="flex justify-center items-center gap-4 mb-10">
+            <span id="monthly-label" class="font-semibold text-slate-500 transition-colors">Mensal</span>
+            <label for="billing-toggle" class="relative inline-flex items-center cursor-pointer">
+                <input type="checkbox" id="billing-toggle" class="sr-only">
+                <div class="w-14 h-8 bg-slate-300 rounded-full transition-colors after:content-[''] after:absolute after:top-1 after:left-[4px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-6 after:w-6 after:transition-all"></div>
+            </label>
+            <span id="annual-label" class="font-semibold text-slate-900 transition-colors">Anual</span>
+            <span class="ml-2 inline-flex items-center px-3 py-1 rounded-full text-sm font-semibold bg-emerald-100 text-emerald-800">
+                Economize 2 meses!
+            </span>
+        </div>
+
+
+        <!-- Grade de Planos -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+
+            <!-- Plano Básico -->
+            <div class="plan-card bg-white rounded-2xl shadow-lg border border-slate-200 p-8 flex flex-col">
+                <h3 class="text-2xl font-bold text-slate-900">Básico</h3>
+                <p class="mt-2 text-slate-500">Ideal para projetos pessoais e uso esporádico.</p>
+                <div class="mt-6">
+                    <span class="text-5xl font-extrabold text-slate-900" id="price-basic">R$29</span>
+                    <span class="text-lg font-medium text-slate-500" id="period-basic">/mês</span>
+                </div>
+                <p class="mt-1 text-sm text-slate-500" id="desc-basic">Cobrança mensal</p>
+                <a href="#" class="mt-8 w-full inline-block text-center bg-indigo-100 text-indigo-700 font-semibold py-3 px-6 rounded-lg hover:bg-indigo-200 transition">
+                    Começar com o Básico
+                </a>
+                <ul class="mt-8 space-y-4 text-slate-600 flex-grow">
+                     <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>120 minutos de transcrição/mês</span></li>
+                     <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Upload de arquivos de até 100MB</span></li>
+                     <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Exportação em TXT e DOCX</span></li>
+                </ul>
+            </div>
+
+            <!-- Plano Pro (Recomendado) -->
+            <div class="plan-card relative bg-white rounded-2xl shadow-2xl border-2 border-indigo-600 p-8 flex flex-col">
+                <div class="absolute top-0 -translate-y-1/2 w-full flex justify-center"><span class="inline-flex items-center px-4 py-1 rounded-full text-sm font-semibold bg-indigo-600 text-white shadow-md">MAIS POPULAR</span></div>
+                <h3 class="text-2xl font-bold text-slate-900">Pro</h3>
+                <p class="mt-2 text-slate-500">Para profissionais que precisam de mais poder e recursos de IA.</p>
+                <div class="mt-6">
+                    <span class="text-5xl font-extrabold text-slate-900" id="price-pro">R$79</span>
+                    <span class="text-lg font-medium text-slate-500" id="period-pro">/mês</span>
+                </div>
+                <p class="mt-1 text-sm text-slate-500" id="desc-pro">Cobrança mensal</p>
+                <a href="#" class="mt-8 w-full inline-block text-center bg-indigo-600 text-white font-semibold py-3 px-6 rounded-lg hover:bg-indigo-700 transition-transform transform hover:scale-105">Fazer Upgrade para Pro</a>
+                <ul class="mt-8 space-y-4 text-slate-600 flex-grow">
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span class="font-semibold">1.000 minutos de transcrição/mês</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Upload de arquivos de até 1GB</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span class="font-semibold">Resumos e tópicos com IA</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Identificação de oradores</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Suporte prioritário</span></li>
+                </ul>
+            </div>
+
+            <!-- Plano Empresarial -->
+            <div class="plan-card bg-white rounded-2xl shadow-lg border border-slate-200 p-8 flex flex-col">
+                <h3 class="text-2xl font-bold text-slate-900">Empresarial</h3>
+                <p class="mt-2 text-slate-500">Soluções escaláveis para equipes e grandes volumes.</p>
+                <div class="mt-6"><span class="text-5xl font-extrabold text-slate-900">Customizado</span></div>
+                <p class="mt-1 text-sm text-slate-500">Planos flexíveis para sua necessidade</p>
+                <a href="#" class="mt-8 w-full inline-block text-center bg-slate-800 text-white font-semibold py-3 px-6 rounded-lg hover:bg-slate-900 transition">Entre em Contato</a>
+                <ul class="mt-8 space-y-4 text-slate-600 flex-grow">
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Tudo do plano Pro, e mais:</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Limites de transcrição customizados</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Colaboração em equipe</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Acesso à API</span></li>
+                    <li class="flex items-center gap-3"><svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg><span>Gerente de conta dedicado</span></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="mt-12 text-center"><button class="font-semibold text-indigo-600 hover:text-indigo-800 transition">Comparar todos os recursos &rarr;</button></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const toggle = document.getElementById('billing-toggle');
+            
+            // Elementos de texto
+            const monthlyLabel = document.getElementById('monthly-label');
+            const annualLabel = document.getElementById('annual-label');
+
+            // Elementos do plano Básico
+            const priceBasic = document.getElementById('price-basic');
+            const periodBasic = document.getElementById('period-basic');
+            const descBasic = document.getElementById('desc-basic');
+
+            // Elementos do plano Pro
+            const pricePro = document.getElementById('price-pro');
+            const periodPro = document.getElementById('period-pro');
+            const descPro = document.getElementById('desc-pro');
+
+            // Valores dos planos
+            const plans = {
+                basic: {
+                    monthly: { price: 'R$29', period: '/mês', desc: 'Cobrança mensal' },
+                    annual: { price: 'R$290', period: '/ano', desc: 'Equivalente a R$24,17/mês' }
+                },
+                pro: {
+                    monthly: { price: 'R$79', period: '/mês', desc: 'Cobrança mensal' },
+                    annual: { price: 'R$790', period: '/ano', desc: 'Equivalente a R$65,83/mês' }
+                }
+            };
+
+            function updatePrices() {
+                const isAnnual = toggle.checked;
+
+                // Atualiza os textos do seletor
+                if(isAnnual) {
+                    monthlyLabel.classList.remove('text-slate-900');
+                    monthlyLabel.classList.add('text-slate-500');
+                    annualLabel.classList.remove('text-slate-500');
+                    annualLabel.classList.add('text-slate-900');
+                } else {
+                    annualLabel.classList.remove('text-slate-900');
+                    annualLabel.classList.add('text-slate-500');
+                    monthlyLabel.classList.remove('text-slate-500');
+                    monthlyLabel.classList.add('text-slate-900');
+                }
+
+                // Determina qual conjunto de preços usar
+                const pricing = isAnnual ? 'annual' : 'monthly';
+
+                // Atualiza plano Básico
+                priceBasic.textContent = plans.basic[pricing].price;
+                periodBasic.textContent = plans.basic[pricing].period;
+                descBasic.textContent = plans.basic[pricing].desc;
+
+                // Atualiza plano Pro
+                pricePro.textContent = plans.pro[pricing].price;
+                periodPro.textContent = plans.pro[pricing].period;
+                descPro.textContent = plans.pro[pricing].desc;
+            }
+
+            // Adiciona o listener para o evento de mudança
+            toggle.addEventListener('change', updatePrices);
+
+            // Define o estado inicial ao carregar a página
+            toggle.checked = true; // Começa como Anual por padrão
+            updatePrices();
+        });
+    </script>
+
+</body>
+</html>

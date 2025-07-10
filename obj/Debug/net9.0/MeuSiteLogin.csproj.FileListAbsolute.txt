@@ -1,194 +1,194 @@
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.csproj.AssemblyReference.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.AssemblyInfoInputs.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.AssemblyInfo.cs
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.RazorAssemblyInfo.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.RazorAssemblyInfo.cs
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\appsettings.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.staticwebassets.runtime.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.staticwebassets.endpoints.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.exe
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.deps.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.runtimeconfig.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\MeuSiteLogin.pdb
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Npgsql.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\scopedcss\bundle\MeuSiteLogin.styles.css
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\scopedcss\projectbundle\MeuSiteLogin.bundle.scp.css
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\as9y5q4wjm-b9sayid5wm.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\yq9v311qem-61n19gt1b8.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\i7amh9x8br-xtxxf3hu2r.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\0lh3oieyqn-bqjiyaj88i.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\hvdfewu73u-c2jlpeoesf.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\73nr0ita6m-erw9l3u2r3.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\vaobewvawd-aexeepp0ev.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\vdjp3cxiai-d7shbmvgxk.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\6ex461gw8j-ausgxo2sd3.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\rfby1rvi4k-k8d9w2qqmf.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\3444cacziq-cosvhxvwiu.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\21jz28ki6j-ub07r2b239.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\sd5t50o5kj-fvhpjtyr6v.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\miyqbw80ss-b7pk76d08c.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\c63bu3y0ct-fsbi9cje9m.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\yopotlzczs-rzd6atqjts.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\nsvufmsi3l-ee0r1s7dh0.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\byl1l8vcdj-dxx9fxp4il.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\wgvasxtwiq-jd9uben2k1.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\8ewqag2jiz-khv3u5hwcm.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\j276m2a7ab-r4e9w2rdcm.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\wq3bo5encc-lcd1t2u6c8.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\mda57k3xp7-c2oey78nd0.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\qhd9fa8283-tdbxkamptv.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\zqz753m3dt-j5mq2jizvt.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\rkek07388p-06098lyss8.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\9d43otq86b-nvvlpmu67g.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\wubuwxq97i-s35ty4nyc5.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\yzu5i6hftn-pj5nd1wqec.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\79dgboeqoh-46ein0sx1k.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\6nmw50heec-v0zj4ognzu.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\c4lnatcekh-37tfw0ft22.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\7w9dw5pxlc-hrwsygsryq.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\qn2cydbqut-pk9g2wxc8p.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ygu7rsokg8-ft3s53vfgj.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\o0acx72lzg-6cfz1n2cew.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ycc3z9el5b-6pdc2jztkx.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\v3wu4ow7er-493y06b0oq.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\y4olyueqrd-iovd86k7lj.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ef6lq9qqc8-vr1egmr9el.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\c5zs8b1krl-kbrnm935zg.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\dgcjdr7kei-jj8uyg4cgr.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ac1uw9qq3e-y7v9cxd14o.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\wb5uolxg60-notf2xhcfb.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\zp0lox3vvw-h1s4sie4z3.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\1oa1eilzvl-63fj8s7r0e.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\6zhwrmx1cd-0j3bgjxly4.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\tw60ccdcji-47otxtyo56.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\hnrtg1h6ou-4v8eqarkd7.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\l5y3vbu2iw-356vix0kms.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\xrbpllrmil-83jwlth58m.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\cmqezkymn1-mrlpezrjn3.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ptnklzngsz-lzl9nlhx6b.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\a5x8t1yxvs-ag7o75518u.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\85a63fynq8-x0q3zqp4vz.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\cmgebfsflf-0i3buxo5is.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\4577iaeqx9-o1o13a6vjx.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\4sheh72rnv-ttgo8qnofa.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\0t0bd0a9en-2z0ns9nrw6.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\nzlwaardcc-muycvpuwrr.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\tdixpf6zi7-87fc7y1x7t.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\dtydxldn2f-mlv21k5csn.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\6az9vak12t-e5zsyx88nx.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\ygr6o024tr-e5zsyx88nx.gz
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteL.245D2594.Up2Date
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\refint\MeuSiteLogin.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.pdb
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.genruntimeconfig.cache
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\ref\MeuSiteLogin.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Humanizer.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\Mono.TextTemplating.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.CodeDom.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Composition.Convention.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Composition.Hosting.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Composition.Runtime.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\System.Text.Json.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\MeuSiteLogin.sourcelink.json
-C:\Users\gabriel.gonzaga\Downloads\meusite2\MeuSiteLogin\obj\Debug\net9.0\compressed\fjjq0hoq1y-nqvr9g2g4q.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\appsettings.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.staticwebassets.runtime.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.staticwebassets.endpoints.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.exe
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.deps.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.runtimeconfig.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\MeuSiteLogin.pdb
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Npgsql.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.csproj.AssemblyReference.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.AssemblyInfoInputs.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.AssemblyInfo.cs
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.RazorAssemblyInfo.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.RazorAssemblyInfo.cs
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.sourcelink.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\scopedcss\bundle\MeuSiteLogin.styles.css
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\scopedcss\projectbundle\MeuSiteLogin.bundle.scp.css
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\as9y5q4wjm-b9sayid5wm.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\yq9v311qem-61n19gt1b8.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\i7amh9x8br-xtxxf3hu2r.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\0lh3oieyqn-t1cqhe9u97.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\hvdfewu73u-c2jlpeoesf.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\73nr0ita6m-sejl45xvog.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\vaobewvawd-aexeepp0ev.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\vdjp3cxiai-xvp3kq03qx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\6ex461gw8j-ausgxo2sd3.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\rfby1rvi4k-22vffe00uq.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\3444cacziq-cosvhxvwiu.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\21jz28ki6j-qesaa3a1fm.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\sd5t50o5kj-fvhpjtyr6v.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\miyqbw80ss-tmc1g35s3z.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\c63bu3y0ct-fsbi9cje9m.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\yopotlzczs-rxsg74s51o.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\nsvufmsi3l-ee0r1s7dh0.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\byl1l8vcdj-q9ht133ko3.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\wgvasxtwiq-jd9uben2k1.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\8ewqag2jiz-gye83jo8yx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\j276m2a7ab-r4e9w2rdcm.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\wq3bo5encc-wl58j5mj3v.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\mda57k3xp7-c2oey78nd0.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\qhd9fa8283-d4r6k3f320.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\zqz753m3dt-j5mq2jizvt.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\rkek07388p-keugtjm085.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\9d43otq86b-nvvlpmu67g.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\wubuwxq97i-zub09dkrxp.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\yzu5i6hftn-pj5nd1wqec.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\79dgboeqoh-43atpzeawx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\6nmw50heec-v0zj4ognzu.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\c4lnatcekh-ynyaa8k90p.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\7w9dw5pxlc-hrwsygsryq.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\qn2cydbqut-c63t5i9ira.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ygu7rsokg8-ft3s53vfgj.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\o0acx72lzg-4094rpi4f9.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ycc3z9el5b-6pdc2jztkx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\v3wu4ow7er-hd3gran6i8.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\y4olyueqrd-iovd86k7lj.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ef6lq9qqc8-ltid2c489k.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\c5zs8b1krl-kbrnm935zg.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\dgcjdr7kei-8vyfqsqgz1.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ac1uw9qq3e-y7v9cxd14o.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\wb5uolxg60-u9q1upor1n.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\zp0lox3vvw-h1s4sie4z3.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\1oa1eilzvl-4d85u1mtcx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\6zhwrmx1cd-0j3bgjxly4.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\tw60ccdcji-03hjc8e09r.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\hnrtg1h6ou-48y08845bh.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\l5y3vbu2iw-356vix0kms.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\xrbpllrmil-83jwlth58m.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\cmqezkymn1-mrlpezrjn3.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ptnklzngsz-worgj0nhwm.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\a5x8t1yxvs-gk0pw8i4co.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\85a63fynq8-x0q3zqp4vz.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\cmgebfsflf-d6nrnj6jjx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\4577iaeqx9-m9qm4tazc0.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\4sheh72rnv-ttgo8qnofa.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\0t0bd0a9en-jjsuc0puko.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\nzlwaardcc-9vr69e8ynj.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\tdixpf6zi7-87fc7y1x7t.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\dtydxldn2f-mlv21k5csn.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\6az9vak12t-e5zsyx88nx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\ygr6o024tr-e5zsyx88nx.gz
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteL.245D2594.Up2Date
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\refint\MeuSiteLogin.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.pdb
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\MeuSiteLogin.genruntimeconfig.cache
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\ref\MeuSiteLogin.dll
+C:\Users\gabriel.gonzaga\OneDrive - Confins Transportes LTDA\Documentos\nossosite\obj\Debug\net9.0\compressed\fjjq0hoq1y-l0uahin206.gz
