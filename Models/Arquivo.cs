@@ -4,28 +4,32 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MeuSiteLogin.Models
 {
-    [Table("arquivos")]
+    [Table("arquivos")] // Nome da tabela no banco de dados (minúsculo)
     public class Arquivo
     {
         [Key]
-        [Column("id")] 
+        [Column("id")]
         public int Id { get; set; }
 
         [Required]
-        [Column("nome_original")]
+        [Column("nomeoriginal")]
         public string NomeOriginal { get; set; }
 
         [Required]
-        [Column("caminho")]
-        public string Caminho { get; set; }
+        [Column("contenttype")]
+        public string ContentType { get; set; }
 
-        [Column("data_envio")]
+        [Required]
+        [Column("dados")]
+        public byte[] Dados { get; set; }
+
+        [Column("dataenvio")]
         public DateTime DataEnvio { get; set; } = DateTime.UtcNow;
 
-        [ForeignKey("Usuario")]
-        [Column("usuario_id")]
+        [Column("usuarioid")]
         public int UsuarioId { get; set; }
 
+        [ForeignKey("UsuarioId")]
         public Usuario Usuario { get; set; }
     }
 }
