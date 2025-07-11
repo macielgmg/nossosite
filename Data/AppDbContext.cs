@@ -13,7 +13,8 @@ namespace MeuSiteLogin.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Usuario>().ToTable("usuarios"); // ajuste conforme necessário
+            modelBuilder.Entity<Arquivo>(entity =>{entity.ToTable("arquivos");});
+            modelBuilder.Entity<Usuario>().ToTable("usuarios"); 
             modelBuilder.Entity<Usuario>().Property(u => u.UsuarioLogin).HasColumnName("usuario");
             modelBuilder.Entity<Usuario>().Property(u => u.Senha).HasColumnName("senha");
         }

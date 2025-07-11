@@ -1,26 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\GitHub\\nossosite\\MeuSiteLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\GitHub\\nossosite\\MeuSiteLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitHub\\nossosite\\MeuSiteLogin.csproj",
         "projectName": "MeuSiteLogin",
-        "projectPath": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\MeuSiteLogin.csproj",
-        "packagesPath": "C:\\Users\\gabriel.gonzaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.gonzaga\\OneDrive - Confins Transportes LTDA\\Documentos\\nossosite\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\nossosite\\MeuSiteLogin.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\nossosite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gabriel.gonzaga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
         },
         "frameworks": {
           "net9.0": {
@@ -38,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
